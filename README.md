@@ -1,4 +1,4 @@
-[![Twitter Follow](https://img.shields.io/badge/dynamic/json.svg?color=14171A&labelColor=37474f&logo=twitter&logoColor=4fc3f7&label=&query=%24[0].followers_count&url=http://cdn.syndication.twimg.com/widgets/followbutton/info.json?screen_name=notingolmo)](https://twitter.com/notingolmo)
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40notingolmo)](https://twitter.com/notingolmo)
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/erhan-bagdemir/)
 
 
