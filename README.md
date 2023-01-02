@@ -6,7 +6,7 @@
 * 🌱 I love researching, learning and sharing. 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=ayyucekizrak&&show_icons=true&title_color=#263238&icon_color=bb2acf&text_color=#263238&bg_color=#CFD8DC">
+<img src="https://github-readme-stats.vercel.app/api?username=notingolmo&&show_icons=true&title_color=#263238&icon_color=bb2acf&text_color=#263238&bg_color=#CFD8DC">
 
 <!--
 **notingolmo/notingolmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
