@@ -2,7 +2,7 @@
 [![LinkedIn Connect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)](https://www.linkedin.com/in/erhan-bagdemir/)
 
 
-* ✨ Check my [blog](https://bagdemir.com) its both English and Turkish.
+* ✨ Check my [blog](https://reevik.net) its both English and Turkish.
 * 🌱 I love researching, learning and sharing. 
 
 
