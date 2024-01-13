@@ -1,7 +1,7 @@
 
 Hey there, here is Erhan and I'm a Software Engineer and a passionate Photographer, Referee and Dad. In this blog, I am writing about information technology. You can also find me on Twitter, Github.
 
-[![](https://visitcount.itsvg.in/api?id=reevik&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=reevik&icon=0&color=12)](https://visitcount.itsvg.in)
 
 
 ### Tech Stack
