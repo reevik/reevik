@@ -3,7 +3,7 @@
 
 📍 **Hamburg ↔ Izmir** | 🤖 **From Enterprise Backends to Agentic** | 🚀 **Reevik.net**
 
-> I'm 44 and still learning. I am an Engineer, a passionate Photographer, and Dad. On Github, you will find some of my side projects. 
+> I am an Engineer, a passionate Photographer, and Dad. On Github, you will find some of my side projects. I am always interested in emerging technologies and software excellence. Feel free to connect me. 
 
 
 [![](https://visitcount.itsvg.in/api?id=reevik&icon=0&color=12)](https://visitcount.itsvg.in)
