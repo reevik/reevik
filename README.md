@@ -1,8 +1,10 @@
 
-<div align="center">
+# Hey, I am Erhan, 👋
 
-## Hi, I am Erhan
-I'm 44 and still learning. I am an Engineer, a passionate Photographer, and Dad. On Github, you will find some of my side projects. 
+📍 **Hamburg ↔ Izmir** | 🤖 **Passionate Programmer** | 🚀 **Reevik.net**
+
+
+> I'm 44 and still learning. I am an Engineer, a passionate Photographer, and Dad. On Github, you will find some of my side projects. 
 
 
 [![](https://visitcount.itsvg.in/api?id=reevik&icon=0&color=12)](https://visitcount.itsvg.in)
@@ -13,5 +15,4 @@ I'm 44 and still learning. I am an Engineer, a passionate Photographer, and Dad.
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=reevik&theme=default&hide_border=true)<br/>
 
-</div>
 
