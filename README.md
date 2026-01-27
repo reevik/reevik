@@ -15,4 +15,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=reevik&theme=default&hide_border=true)<br/>
 
+## What I'm Doing Here
 
+- **Codesmithe** - Learning and building tools.
+- **Rapid prototyping** - Full apps in days, not months
