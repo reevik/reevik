@@ -1,5 +1,5 @@
 
-# Hey, I am Erhan, 👋
+# Hey, I am Erhan 👋
 
 📍 **Hamburg ↔ Izmir** | 🤖 **Passionate Programmer** | 🚀 **Reevik.net**
 
