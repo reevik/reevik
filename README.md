@@ -17,5 +17,5 @@
 
 ## What I'm Doing Here
 
-- **Codesmithe** - Learning and building tools.
+- **Codesmith** - Learning and building tools.
 - **Rapid prototyping** - Full apps in days, not months
