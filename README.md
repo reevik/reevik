@@ -1,7 +1,7 @@
 
 # Hey, I am Erhan 👋
 
-📍 **Hamburg ↔ Izmir** | 🤖 **Passionate Programmer** | 🚀 **Reevik.net**
+📍 **Hamburg ↔ Izmir** | 🤖 **From Enterprise Backends to Agentic** | 🚀 **Reevik.net**
 
 > I'm 44 and still learning. I am an Engineer, a passionate Photographer, and Dad. On Github, you will find some of my side projects. 
 
