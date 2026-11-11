@@ -17,14 +17,27 @@
 - **Codesmith** - Learning and building tools.
 - **Rapid prototyping** - Full apps in days, not months
 
-## Reevik
+## Projects
 
-<p align="center">
-  <a href="https://github.com/reevik/reevik-markdown-app">
-    <img src="reevik-showcase.png" alt="Reevik — a Markdown editor for macOS with a built-in AI writing agent" width="100%">
-  </a>
-</p>
-
-**[Reevik](https://github.com/reevik/reevik-markdown-app)** is an agentic Markdown editor for macOS: Live Preview with
-charts, diagrams and math, Obsidian-style vaults, and an AI writing agent — Claude or GitHub Copilot — that edits
-your notes with you. [Download the latest release →](https://github.com/reevik/reevik-markdown-app/releases/latest)
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/reevik/reevik-markdown-app">
+        <img src="reevik-showcase.png" alt="Reevik — a Markdown editor for macOS with a built-in AI writing agent" width="100%">
+      </a>
+      <br>
+      <b><a href="https://github.com/reevik/reevik-markdown-app">Reevik</a></b>
+      <br>
+      <sub>An agentic Markdown editor for macOS — Live Preview with charts, diagrams and math, Obsidian-style vaults, and an AI writing agent (Claude or GitHub Copilot) that edits your notes with you. <a href="https://github.com/reevik/reevik-markdown-app/releases/latest">Download →</a></sub>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/reevik/mikron">
+        <img src="mikron-showcase.png" alt="Mikron — a minimalistic IoC container for Java" width="100%">
+      </a>
+      <br>
+      <b><a href="https://github.com/reevik/mikron">Mikron</a></b>
+      <br>
+      <sub>A minimalistic, web-free IoC container for Java — dependency injection and externalized configuration management.</sub>
+    </td>
+  </tr>
+</table>
