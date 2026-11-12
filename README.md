@@ -38,7 +38,7 @@ I am an Engineer, a passionate Photographer, and Dad. On Github, you will find s
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/reevik/db-lab">
-        <img src="dblab-showcase.png" alt="dblab — an experimental B-tree based NoSQL database in Rust" width="100%">
+        <img src="dblab-logo.png" alt="dblab — an experimental B-tree based NoSQL database in Rust" width="100%">
       </a>
       <h3><a href="https://github.com/reevik/db-lab">dblab</a></h3>
       An experimental, educational B+Tree based NoSQL database written in Rust — slotted pages, page splits and merges, with a write-ahead log, sharding and consensus on the roadmap.
