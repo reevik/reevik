@@ -43,7 +43,7 @@
   <tr>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/reevik/db-lab">
-        <img src="dblab-showcase.webp" alt="dblab — an experimental B-tree based NoSQL database in Rust" width="100%">
+        <img src="dblab-showcase.png" alt="dblab — an experimental B-tree based NoSQL database in Rust" width="100%">
       </a>
       <br>
       <b><a href="https://github.com/reevik/db-lab">dblab</a></b>
