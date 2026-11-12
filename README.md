@@ -40,7 +40,7 @@ I am an Engineer, a passionate Photographer, and Dad. On Github, you will find s
       <a href="https://github.com/reevik/reevik-markdown-app">
         <img src="reevik-showcase.png" alt="Reevik — a Markdown editor for macOS with a built-in AI writing agent" width="100%">
       </a>
-      <h3><a href="https://github.com/reevik/reevik-markdown-app">Reevik</a></h3>
+      <h3><a href="https://github.com/reevik/reevik-markdown-app">Reevik's Markdown Editor</a></h3>
       An agentic Markdown editor for macOS — Live Preview with charts, diagrams and math, Obsidian-style vaults, and an AI writing agent (Claude or GitHub Copilot) that edits your notes with you. <a href="https://github.com/reevik/reevik-markdown-app/releases/latest">Download →</a>
     </td>
     <td width="50%"></td>
