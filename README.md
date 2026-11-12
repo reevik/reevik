@@ -18,8 +18,6 @@ I am an Engineer, a passionate Photographer, and Dad. On Github, you will find s
 </div>
 
 
-## Projects
-
 <table>
   <tr>
     <td width="50%" align="center" valign="top">
