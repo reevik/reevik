@@ -3,8 +3,14 @@
 
 📍 **Hamburg ↔ Izmir** | 🤖 **From Enterprise Backends to Agentic** | 🚀 **Reevik.net**
 
-> I am an Engineer, a passionate Photographer, and Dad. On Github, you will find some of my side projects. I am always interested in emerging technologies and software excellence. Feel free to connect me. 
+I am an Engineer, a passionate Photographer, and Dad. On Github, you will find some of my side projects. I am always interested in emerging technologies and software excellence. Feel free to connect me. 
 
+## What I'm Doing Here
+
+- **Codesmith** - Learning and building tools.
+- **Rapid prototyping** - Full apps in days, not months
+
+--- 
 
 <div align="center">
 
@@ -16,10 +22,6 @@
 
 </div>
 
-## What I'm Doing Here
-
-- **Codesmith** - Learning and building tools.
-- **Rapid prototyping** - Full apps in days, not months
 
 ## Projects
 
