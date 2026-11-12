@@ -26,18 +26,14 @@ I am an Engineer, a passionate Photographer, and Dad. On Github, you will find s
       <a href="https://github.com/reevik/reevik-markdown-app">
         <img src="reevik-showcase.png" alt="Reevik — a Markdown editor for macOS with a built-in AI writing agent" width="100%">
       </a>
-      <br>
-      <b><a href="https://github.com/reevik/reevik-markdown-app">Reevik</a></b>
-      <br>
+      <h3><a href="https://github.com/reevik/reevik-markdown-app">Reevik</a></h3>
       An agentic Markdown editor for macOS — Live Preview with charts, diagrams and math, Obsidian-style vaults, and an AI writing agent (Claude or GitHub Copilot) that edits your notes with you. <a href="https://github.com/reevik/reevik-markdown-app/releases/latest">Download →</a>
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/reevik/mikron">
         <img src="mikron-showcase.png" alt="Mikron — a minimalistic IoC container for Java" width="100%">
       </a>
-      <br>
-      <b><a href="https://github.com/reevik/mikron">Mikron</a></b>
-      <br>
+      <h3><a href="https://github.com/reevik/mikron">Mikron</a></h3>
       A minimalistic, web-free IoC container for Java — dependency injection and externalized configuration management.
     </td>
   </tr>
@@ -46,9 +42,7 @@ I am an Engineer, a passionate Photographer, and Dad. On Github, you will find s
       <a href="https://github.com/reevik/db-lab">
         <img src="dblab-showcase.png" alt="dblab — an experimental B-tree based NoSQL database in Rust" width="100%">
       </a>
-      <br>
-      <b><a href="https://github.com/reevik/db-lab">dblab</a></b>
-      <br>
+      <h3><a href="https://github.com/reevik/db-lab">dblab</a></h3>
       An experimental, educational B+Tree based NoSQL database written in Rust — slotted pages, page splits and merges, with a write-ahead log, sharding and consensus on the roadmap.
     </td>
     <td width="50%"></td>
