@@ -40,4 +40,16 @@
       <sub>A minimalistic, web-free IoC container for Java — dependency injection and externalized configuration management.</sub>
     </td>
   </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <a href="https://github.com/reevik/db-lab">
+        <img src="dblab-showcase.png" alt="dblab — an experimental B-tree based NoSQL database in Rust" width="100%">
+      </a>
+      <br>
+      <b><a href="https://github.com/reevik/db-lab">dblab</a></b>
+      <br>
+      <sub>An experimental, educational B+Tree based NoSQL database written in Rust — slotted pages, page splits and merges, with a write-ahead log, sharding and consensus on the roadmap.</sub>
+    </td>
+    <td width="50%"></td>
+  </tr>
 </table>
