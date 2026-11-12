@@ -37,6 +37,7 @@ I am an Engineer, a passionate Photographer, and Dad. On Github, you will find s
   </tr></tbody>
   <tbody><tr>
     <td width="50%" align="center" valign="top">
+      <br>
       <a href="https://github.com/reevik/reevik-markdown-app">
         <img src="reevik-showcase.png" alt="Reevik — a Markdown editor for macOS with a built-in AI writing agent" width="100%">
       </a>
