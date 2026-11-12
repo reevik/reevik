@@ -19,7 +19,7 @@ I am an Engineer, a passionate Photographer, and Dad. On Github, you will find s
 
 
 <table>
-  <tr>
+  <tbody><tr>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/reevik/reevik-markdown-app">
         <img src="reevik-showcase.png" alt="Reevik — a Markdown editor for macOS with a built-in AI writing agent" width="100%">
@@ -34,8 +34,8 @@ I am an Engineer, a passionate Photographer, and Dad. On Github, you will find s
       <h3><a href="https://github.com/reevik/mikron">Mikron</a></h3>
       A minimalistic, web-free IoC container for Java — dependency injection and externalized configuration management.
     </td>
-  </tr>
-  <tr>
+  </tr></tbody>
+  <tbody><tr>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/reevik/db-lab">
         <img src="dblab-logo.png" alt="dblab — an experimental B-tree based NoSQL database in Rust" width="100%">
@@ -44,5 +44,5 @@ I am an Engineer, a passionate Photographer, and Dad. On Github, you will find s
       An experimental, educational B+Tree based NoSQL database written in Rust — slotted pages, page splits and merges, with a write-ahead log, sharding and consensus on the roadmap.
     </td>
     <td width="50%"></td>
-  </tr>
+  </tr></tbody>
 </table>
