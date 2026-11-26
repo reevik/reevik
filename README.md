@@ -21,11 +21,11 @@ I am an Engineer, a passionate Photographer, and Dad. On Github, you will find s
 <table>
   <tbody><tr>
     <td width="50%" align="center" valign="top">
-      <a href="https://github.com/reevik/db-lab">
-        <img src="dblab-logo.png" alt="dblab — an experimental B-tree based NoSQL database in Rust" width="100%">
+      <a href="https://github.com/reevik/Paw">
+        <img src="paw-logo.png" alt="Paw — an agentic terminal multiplexer for macOS" width="100%">
       </a>
-      <h3><a href="https://github.com/reevik/db-lab">dblab</a></h3>
-      An experimental, educational B+Tree based NoSQL database written in Rust — slotted pages, page splits and merges, with a write-ahead log, sharding and consensus on the roadmap.
+      <h3><a href="https://github.com/reevik/Paw">Paw</a></h3>
+      An agentic terminal multiplexer for macOS — Paw Agent on your own models beside your shell, tabs and split panes, plans and factories of agents, and a sandbox. <a href="https://github.com/reevik/Paw/releases/latest">Download →</a>
     </td>
     <td width="50%" align="center" valign="top">
       <a href="https://github.com/reevik/mikron">
@@ -46,11 +46,11 @@ I am an Engineer, a passionate Photographer, and Dad. On Github, you will find s
     </td>
     <td width="50%" align="center" valign="top">
       <br>
-      <a href="https://github.com/reevik/Paw">
-        <img src="paw-logo.png" alt="Paw — an agentic terminal multiplexer for macOS" width="100%">
+      <a href="https://github.com/reevik/db-lab">
+        <img src="dblab-logo.png" alt="dblab — an experimental B-tree based NoSQL database in Rust" width="100%">
       </a>
-      <h3><a href="https://github.com/reevik/Paw">Paw</a></h3>
-      An agentic terminal multiplexer for macOS — Paw Agent on your own models beside your shell, tabs and split panes, plans and factories of agents, and a sandbox. <a href="https://github.com/reevik/Paw/releases/latest">Download →</a>
+      <h3><a href="https://github.com/reevik/db-lab">dblab</a></h3>
+      An experimental, educational B+Tree based NoSQL database written in Rust — slotted pages, page splits and merges, with a write-ahead log, sharding and consensus on the roadmap.
     </td>
   </tr></tbody>
 </table>
