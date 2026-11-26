@@ -47,7 +47,7 @@ I am an Engineer, a passionate Photographer, and Dad. On Github, you will find s
     <td width="50%" align="center" valign="top">
       <br>
       <a href="https://github.com/reevik/Paw">
-        <img src="paw-showcase.png" alt="Paw — an agentic terminal multiplexer for macOS" width="100%">
+        <img src="paw-logo.png" alt="Paw — an agentic terminal multiplexer for macOS" width="100%">
       </a>
       <h3><a href="https://github.com/reevik/Paw">Paw</a></h3>
       An agentic terminal multiplexer for macOS — Paw Agent on your own models beside your shell, tabs and split panes, plans and factories of agents, and a sandbox. <a href="https://github.com/reevik/Paw/releases/latest">Download →</a>
